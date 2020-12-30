@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         CollapsingToolbarLayout collapsingToolbarLayout = findViewById(R.id.collaping_toolbar);
-        collapsingToolbarLayout.setTitle("Collapsing");
+        collapsingToolbarLayout.setTitle("IO16");
         collapsingToolbarLayout.setExpandedTitleColor(0xffffffff);
 
         Toolbar toolbar=findViewById(R.id.toolbar);
